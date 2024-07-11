@@ -26,7 +26,7 @@ A responsive newspaper-themed web template designed for showcasing a personal po
 
 ## Preview
 
-![Portfolio Preview](ss.png)
+![Portfolio Preview](ss.jpg)
 
 ## License
 
